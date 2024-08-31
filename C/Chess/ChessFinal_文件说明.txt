@@ -1,0 +1,11 @@
+声明：
+文件夹ChessFinal是主本，可以修改。
+文件夹ChessFinal_24.8.1终稿是副本，用于备份，不再修改。
+
+为避免修改主本时，由于疏忽等人为因素，意外修改副本的情况出现，
+Chess_Graduation_Design 文件夹没有配置.vscode(C语言编译环境)，VsCode打开此文件夹时，不能直接运行程序。
+
+ChessFinal_24.8.1终稿保留所有核心代码、环境配置文件、ChessFinal最后生成的可执行程序a_chessfinal.exe。
+之后不用于编译文件(文件夹有中文字符，编译会出错)。
+
+如要运行程序，请在VsCode中打开ChessFinal。
